@@ -94,6 +94,3 @@ Known Issues
 - There are still performance problems with regard to SMB in certain configurations. My tests indicate that Apple's Broadcom driver shows the same behavior with those configurations. Obviously it's a more general problem that is not limited to my driver.
 - WoL refuses to work on some machines.
 
-Building from Source
-
-I'm using XCode 6.1 for development. You can get a free copy of XCode after becoming a member of the Apple developer program. The free membership is sufficient in order to get access to development tools and documentation.
